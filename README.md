@@ -16,6 +16,7 @@
 ## Latest Projects 
 
 - [**Bank Marketing**](https://goo.gl/rshBrB), Using Amazon ML from local machine to solve classification problem
+- [**Forest Cover**](https://github.com/shravankumar9892/forest-cover-type) A Kaggle Competition.
 - [**PyPizza**](#), A Dektop Qt app to order Dominos pizzas online
 - [**PyTwee**](https://github.com/shravankumar9892/pytwee), Sentiment analysis using the Twitter API
 - [**Coloi**](https://github.com/shravankumar9892/coloi), Coloring B&W portraits with neural networks.
