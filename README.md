@@ -16,10 +16,11 @@
 ## Latest Projects 
 
 - [**Bank Marketing**](https://goo.gl/rshBrB), Using Amazon ML from local machine to solve classification problem
-- [**PyTwee**](https://github.com/shravankumar9892/pytwee), Trying different things with Twitter API.
+- [**PyPizza**](#), A Dektop Qt app to order Dominos pizzas online
+- [**PyTwee**](https://github.com/shravankumar9892/pytwee), Sentiment analysis using the Twitter API
 - [**Coloi**](https://github.com/shravankumar9892/coloi), Coloring B&W portraits with neural networks.
 - [**Marketing-Email**](https://github.com/shravankumar9892/marketing-email), Sending HTML Based customized emails without being a spammer.
-- [**PyCal**](https://github.com/shravankumar9892/pycal), A handy and sofisticated Python Calculator. 
+- [**PyCal**](https://github.com/shravankumar9892/pycal), A handy Qt Calculator. 
 
 
 
