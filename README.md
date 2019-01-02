@@ -4,8 +4,8 @@
   <a href="https://twitter.com/shravan9892"><img src="https://img.shields.io/badge/Twitter-@shravan9892-34A1F2.svg" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/shettyshravankumar/"><img src="https://img.shields.io/badge/Linkedin-shettyshravankumar-71EF8E.svg" alt="Linkedin"></a>
   <a href="https://stackoverflow.com/users/9841117/theshetty-paradise"><img src="https://img.shields.io/badge/Stackoverflow-TheSHETTYParadise-red.svg" alt="Stackoverflow"></a>
-  <a href="https://github.com/shravankumar9892"><img src="https://img.shields.io/badge/GitHub-1012-000000.svg" alt="GitHub"></a>
-  <a href="https://goo.gl/vHiUCU"><img src="https://img.shields.io/badge/Location-Surat-00FFB4.svg" alt="Surat"></a>
+  <a href="https://github.com/shravankumar9892"><img src="https://img.shields.io/badge/GitHub-shravankumar9892-000000.svg" alt="GitHub"></a>
+  
 
 </p>
 
