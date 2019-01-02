@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://twitter.com/shravan9892"><img src="https://img.shields.io/badge/Twitter-@shravan9892-34A1F2.svg" alt="Twitter"></a>
+  <a href="https://github.com/shravankumar9892"><img src="https://img.shields.io/badge/GitHub-shravankumar9892-000000.svg" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/shettyshravankumar/"><img src="https://img.shields.io/badge/Linkedin-shettyshravankumar-71EF8E.svg" alt="Linkedin"></a>
   <a href="https://stackoverflow.com/users/9841117/theshetty-paradise"><img src="https://img.shields.io/badge/Stackoverflow-TheSHETTYParadise-red.svg" alt="Stackoverflow"></a>
-  <a href="https://github.com/shravankumar9892"><img src="https://img.shields.io/badge/GitHub-shravankumar9892-000000.svg" alt="GitHub"></a>
   
 
 </p>
@@ -36,12 +36,13 @@ SVNIT, popularly known as National Institute of Technology, Surat, NIT Surat, is
 
 ### Languages & Frameworks
 
-- C++
+- Qt
 - Python
+- Keras
 - Tensorflow
 - Keras
 - PyTorch
-- Mlpack
+- C++
 
 ### Platforms
 - AWS
