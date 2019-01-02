@@ -16,6 +16,7 @@
 
 ## Latest Projects 
 
+- [**Bank Marketing**](https://goo.gl/rshBrB), Using Amazon ML from local machine to solve classification problem
 - [**PyTwee**](https://github.com/shravankumar9892/pytwee), Trying different things with Twitter API.
 - [**Coloi**](https://github.com/shravankumar9892/coloi), Coloring B&W portraits with neural networks.
 - [**Marketing-Email**](https://github.com/shravankumar9892/marketing-email), Sending HTML Based customized emails without being a spammer.
@@ -39,11 +40,10 @@ SVNIT, popularly known as National Institute of Technology, Surat, NIT Surat, is
 - Python
 - Tensorflow
 - Keras
+- PyTorch
 - Mlpack
 
 ### Platforms
-
-- Google Cloud Platform
 - AWS
 
 ---
