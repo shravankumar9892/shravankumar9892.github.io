@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://pbs.twimg.com/profile_images/1033711461921566725/YarMjDSW_400x400.jpg">
-    <h2>Shravankumar Shetty</h2>
+    <h2 align = "center">Shravankumar Shetty</h2>
 </p>
 
 <p align="center">
