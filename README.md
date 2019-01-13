@@ -32,7 +32,7 @@
 ## Certifications
 - [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/Z22Z5F57EZ79)
 - [**Structuring ML Projects**](https://www.coursera.org/account/accomplishments/verify/5RYF93U9MYT5)
-- [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization)
+- [**Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/account/accomplishments/certificate/TJE8SW62JAQ4)
 - To view more, click [**here**](https://www.linkedin.com/in/shettyshravankumar/#accomplishments)
 
 
