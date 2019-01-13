@@ -1,4 +1,7 @@
-<p align="center"><img src="https://pbs.twimg.com/profile_images/1033711461921566725/YarMjDSW_400x400.jpg"></p>
+<p align="center">
+    <img src="https://pbs.twimg.com/profile_images/1033711461921566725/YarMjDSW_400x400.jpg">
+    <h2>Shravankumar Shetty</h2>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/shravan9892"><img src="https://img.shields.io/badge/Twitter-@shravan9892-34A1F2.svg" alt="Twitter"></a>
@@ -12,17 +15,44 @@
 ---
 
 
+## Ongoing Projects
+
+- [**Travel Time**](https://github.com/shravankumar9892/travel-time), An automation script to help Phd student(Civil department of NIT Surat) to get the distance vs time dataset for differen tmodes of transport over the span of 1 year.
+- [**Coloi**](https://github.com/shravankumar9892/coloi), Coloring B&W portraits with neural networks.
+- [**Intel Scene Classification**](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/), task is to identify which natural scene can the image be categorized into.
+
 
 ## Latest Projects 
-
+- [**Marketing-Email**](https://github.com/shravankumar9892/marketing-email), Sending HTML Based customized emails without being a spammer.
 - [**Bank Marketing**](https://goo.gl/rshBrB), Using Amazon ML from local machine to solve classification problem
 - [**Forest Cover**](https://github.com/shravankumar9892/forest-cover-type) A Kaggle Competition.
-- [**PyPizza**](#), A Dektop Qt app to order Dominos pizzas online
-- [**PyTwee**](https://github.com/shravankumar9892/pytwee), Sentiment analysis using the Twitter API
-- [**Coloi**](https://github.com/shravankumar9892/coloi), Coloring B&W portraits with neural networks.
-- [**Marketing-Email**](https://github.com/shravankumar9892/marketing-email), Sending HTML Based customized emails without being a spammer.
-- [**PyCal**](https://github.com/shravankumar9892/pycal), A handy Qt Calculator. 
+- [**Marketing-Email**](https://github.com/shravankumar9892/marketing-email), Sending HTML Based customized emails without being a spammer. 
 
+
+## Certifications
+- [**Neural Networks and Deep Learning**](https://www.coursera.org/account/accomplishments/verify/Z22Z5F57EZ79)
+- [**Structuring ML Projects**](https://www.coursera.org/account/accomplishments/verify/5RYF93U9MYT5)
+- [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization)
+- To view more, click [**here**](https://www.linkedin.com/in/shettyshravankumar/#accomplishments)
+
+
+## Skills
+- **Automating with Python**
+    * Experienced in using pre-made APIs.
+    * Worked with creating Desktop apps with Qt (for interface)
+    * Experienced in using nltk, regex, pandas and usual python libraries.
+
+- **Cloud**
+    * Experienced with AWS Machine Learning and SageMaker.
+    * Worked with Amazon VPC and EC2.
+
+-  **Artificial Intelligence & it's constituents**
+    * Worked with transfer learning for feature extraction of images.
+    * Comfortable with frameworks and libraries like TensorFlow, PyTorch, Keras, scikit-learn, zeta-learn, etc.
+    * Experiencd with OpenCV, PIL and skimage for Computer Vision tasks.
+    * Worked on data scraping and mining with BeautifulSoup and Regex.
+    * Worked Data Visualization with matplotlib, seaborn,  
+    * Worked with nltk for NLP preprocessing.
 
 
 ## Education
@@ -37,16 +67,21 @@ SVNIT, popularly known as National Institute of Technology, Surat, NIT Surat, is
 
 ### Languages & Frameworks
 
-- Qt
 - Python
+- C++
+- Qt
 - Keras
 - Tensorflow
 - Keras
 - PyTorch
-- C++
+- scikit-learn
+- zeta-learn, etc.
 
-### Platforms
+### Platforms & OS
 - AWS
+- Linux
+- Windows
+
 
 ---
 
