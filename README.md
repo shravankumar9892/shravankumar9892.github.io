@@ -75,7 +75,7 @@ SVNIT, popularly known as National Institute of Technology, Surat, NIT Surat, is
 - Keras
 - PyTorch
 - scikit-learn
-- zeta-learn, etc.
+- Orange
 
 ### Platforms & OS
 - AWS
